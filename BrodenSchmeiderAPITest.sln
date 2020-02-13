@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrodenSchmeiderAPITest", "BrodenSchmeiderAPITest\BrodenSchmeiderAPITest.csproj", "{51494882-16FB-447D-A931-327D10BFDC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrodenSchmeiderAPITestUnitTestProject", "BrodenSchmeiderAPITestUnitTestProject\BrodenSchmeiderAPITestUnitTestProject.csproj", "{16A2C673-114F-439D-8356-7A3F67F59B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51494882-16FB-447D-A931-327D10BFDC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51494882-16FB-447D-A931-327D10BFDC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51494882-16FB-447D-A931-327D10BFDC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51494882-16FB-447D-A931-327D10BFDC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A2C673-114F-439D-8356-7A3F67F59B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A2C673-114F-439D-8356-7A3F67F59B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A2C673-114F-439D-8356-7A3F67F59B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A2C673-114F-439D-8356-7A3F67F59B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A69E5B-5C4E-42FA-AB86-FABBC11E244B}
+	EndGlobalSection
+EndGlobal
